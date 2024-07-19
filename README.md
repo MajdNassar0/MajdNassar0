@@ -34,9 +34,6 @@
   <a href="https://instagram.com/majd__.nassar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="majd__.nassar" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/majdnassar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="majdnassar" height="30" width="40" />
-  </a>
   <a href="https://www.leetcode.com/majd00mazoz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="majd00mazoz" height="30" width="40" />
   </a>
@@ -58,14 +55,9 @@
   </a>
 </p>
 
-<h3 align="left">Codeforces Stats:</h3>
-<p align="left">
-  [![Codeforces Profile](https://codeforces-readme-stats.vercel.app/api/card?username=majdnassar)](https://codeforces.com/profile/majdnassar)
-</p>
-
 <h3 align="left">LeetCode Stats:</h3>
 <p align="left">
-  ![LeetCode Profile](https://leetcode-badge-showcase.vercel.app/api/profile?username=majd00mazoz)
+  <img src="https://leetcode-stats-api.herokuapp.com/?username=majd00mazoz&theme=dark" alt="LeetCode Stats" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdnassar0&show_icons=true&locale=en&layout=compact" alt="majdnassar0" /></p>
