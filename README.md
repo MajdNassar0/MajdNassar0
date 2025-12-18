@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  A Passionate Computer Systems Engineer :)
+  A Passionate Computer Systems Engineer 
 </h3>
 
 <p align="center">
