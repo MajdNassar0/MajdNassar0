@@ -6,11 +6,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=majdnassar0&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="majdnassar0" />
-  </a>
-</p>
+
 
 <p align="left"> 
   - 🌱 I’m currently learning <strong>Front-end web development</strong><br>
@@ -53,4 +49,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majdnassar0&show_icons=true&locale=en" alt="majdnassar0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majdnassar0&" alt="majdnassar0" /></p>
