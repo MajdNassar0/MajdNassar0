@@ -53,7 +53,8 @@
 
 <hr>
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=majdnassar0&layout=compact&theme=default" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=majdnassar0&show_icons=true&theme=default" /> </p>
 
 <hr>
 
