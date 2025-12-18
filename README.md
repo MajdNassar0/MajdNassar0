@@ -1,51 +1,63 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Majd Nassar</h1>
-<h3 align="center">A passionate computer systems engineer from Palestine</h3>
+<h1 align="center">
+  Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  I'm Majd Nassar
+</h1>
+
+<h3 align="center">
+  A passionate Computer Systems Engineer from Palestine 🇵🇸
+</h3>
+
+<!-- Coding Girl Image -->
+<p align="center">
+  <img src="girl-hijab-coding.png" width="420" alt="Coding Girl"/>
+</p>
+
+<hr>
 
 <p align="center">
+  🌱 <strong>Currently learning:</strong> Front-end Web Development <br>
+  👯 <strong>Open to collaborate</strong> on Open Source Projects <br>
+  👨‍💻 <strong>Projects:</strong> 
+  <a href="https://github.com/MajdNassar0?tab=repositories">GitHub Repositories</a> <br>
+  📫 <strong>Email:</strong> majdmnassar05@gmail.com <br>
+  ⚡ <strong>Fun fact:</strong> I believe in teamwork 🤍
 </p>
 
+<hr>
 
-
-
-
-<p align="left"> 
-  - 🌱 I’m currently learning <strong>Front-end web development</strong><br>
-  - 👯 I’m looking to collaborate on <strong>Open Source Projects</strong><br>
-  - 👨‍💻 All of my projects are available at <a href="https://github.com/MajdNassar0?tab=repositories">My GitHub Repositories</a><br>
-  - 📫 How to reach me: <strong>majdmnassar05@gmail.com</strong><br>
-  - ⚡ Fun fact: <strong>teamwork</strong>
-</p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/majd nassar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="majd nassar" height="30" width="40" />
+  <a href="https://linkedin.com/in/majd-nassar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://fb.com/majd m nassar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majd m nassar" height="30" width="40" />
+  <a href="https://instagram.com/majd__.nassar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
-  <a href="https://instagram.com/majd__.nassar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="majd__.nassar" height="30" width="40" />
+  <a href="https://fb.com/majd.m.nassar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<hr>
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdnassar0&show_icons=true&locale=en&layout=compact" alt="majdnassar0" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majdnassar0&show_icons=true&locale=en" alt="majdnassar0" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=majdnassar0&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=majdnassar0&show_icons=true&theme=default" />
+</p>
 
