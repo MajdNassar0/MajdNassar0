@@ -53,14 +53,10 @@
 
 <hr>
 
-<h3 align="center">💻 Coding Girl Vibes</h3>
-<p align="center">
-  <!-- Girl laptop GIF -->
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="300"/>
-</p>
+
 
 <hr>
 
 <p align="center">
-  ✨ <strong>“Empowered women empower the code.”</strong> ✨
+  ✨ <strong>“سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ⠀”</strong> ✨
 </p>
