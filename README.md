@@ -9,7 +9,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <!-- Girl coding GIF -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 </p>
 
 <hr>
@@ -52,14 +53,14 @@
 
 <hr>
 
-<h3 align="center">💻 Coding Vibes</h3>
+<h3 align="center">💻 Coding Girl Vibes</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+  <!-- Girl laptop GIF -->
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="300"/>
 </p>
 
 <hr>
 
 <p align="center">
-  ✨ <strong>“Code with passion, learn with purpose.”</strong> ✨
+  ✨ <strong>“Empowered women empower the code.”</strong> ✨
 </p>
-
