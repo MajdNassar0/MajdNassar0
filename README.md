@@ -2,12 +2,9 @@
 <h3 align="center">A passionate computer systems engineer from Palestine</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=majdnassar0&label=Profile%20views&color=0e75b6&style=flat" alt="majdnassar0" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
