@@ -8,10 +8,7 @@
   A passionate Computer Systems Engineer from Palestine 🇵🇸
 </h3>
 
-<!-- Coding Girl Image -->
-<p align="center">
-  <img src="girl-hijab-coding.png" width="420" alt="Coding Girl"/>
-</p>
+
 
 <hr>
 
