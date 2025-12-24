@@ -19,8 +19,8 @@
   🌱 <strong>Currently learning:</strong> Front-End Web Development <br>
   👯 <strong>Open to collaborate</strong> on Open Source Projects <br>
   👩‍💻 <strong>All my projects:</strong> 
-  <a href="https://github.com/YourUsername?tab=repositories">GitHub Repositories</a> <br>
-  📫 <strong>Email:</strong> your.email@gmail.com <br>
+  <a href="https://github.com/MajdNassar0?tab=repositories">GitHub Repositories</a> <br>
+  📫 <strong>Email:</strong> majdmnassar05@gmail.com <br>
   ⚡ <strong>Fun fact:</strong> I love teamwork & creativity 🤍
 </p>
 
