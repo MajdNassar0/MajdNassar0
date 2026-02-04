@@ -9,12 +9,12 @@
 </h3>
 
 <p align="center">
-  <!-- Girl coding GIF -->
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MajdNassar0&style=for-the-badge&color=blue" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MajdNassar0&style=for-the-badge&color=blue" />
+</p>
 
 <hr>
 
@@ -31,13 +31,13 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/MajdNassar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/your_instagram_username" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
-  <a href="https://fb.com/yourusername" target="_blank">
+  <a href="https://facebook.com/your_facebook_username" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
   </a>
 </p>
@@ -53,13 +53,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
 </p>
-
 
 <hr>
 
 <p align="center">
-  ✨ <strong>“سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ⠀”</strong> ✨
+  ✨ <strong>“سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ”</strong> ✨
 </p>
+
