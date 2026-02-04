@@ -31,10 +31,10 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/MajdNassar" target="_blank">
+  <a href="https://www.facebook.com/majd.m.nassar/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://instagram.com/your_instagram_username" target="_blank">
+  <a href="https://www.instagram.com/majd__.nassar/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
   <a href="https://facebook.com/your_facebook_username" target="_blank">
