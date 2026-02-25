@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MajdNassar0&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=MajdNassar0&style=for-the-badge&color=bink" />
 </p>
 
 <hr>
