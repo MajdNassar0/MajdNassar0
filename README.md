@@ -1,9 +1,9 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif"
-    width="100"
-    height="100"
-    style="border-radius: 80%;"
+    width="140"
+    height="140"
+    style="border-radius: 80;"
     alt="Majd's GIF"
   />
 </p>
@@ -74,7 +74,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 </p>
 
 <p align="center">
-  <strong>✨ Building. Learning. Growing.</strong>
+  <strong>Building. Learning. Growing.</strong>
 </p>
 
 <p align="center">
