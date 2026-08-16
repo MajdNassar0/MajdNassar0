@@ -2,7 +2,7 @@
   <img 
     src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif"
     width="180"
-    height="180"
+    height="100"
     style="border-radius: 80%;"
     alt="Majd's GIF"
   />
